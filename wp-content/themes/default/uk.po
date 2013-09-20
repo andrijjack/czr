@@ -1,0 +1,645 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kubrick Uk\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/theme\n"
+"POT-Creation-Date: 2009-05-18 17:54+0300\n"
+"PO-Revision-Date: 2009-07-10 13:39+0200\n"
+"Last-Translator: Jurko Chervony <info@skinik.name>\n"
+"Language-Team: Pavonine.com.ua <wordpress@skinik.name>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Poedit-Language: Ukrainian\n"
+"X-Poedit-Country: UKRAINE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;_c;__ngettext:1,2\n"
+"X-Poedit-Basepath: H:\\home\\wordpress\\trunk\\wp-content\\themes\\default\n"
+"X-Poedit-SearchPath-0: H:\\home\\wordpress\\trunk\\wp-content\\themes\\default\n"
+
+#: 404.php:12
+msgid "Error 404 - Not Found"
+msgstr "Помилка 404 &#8212; Не знайдено"
+
+#: archive.php:16
+#, php-format
+msgid "Archive for the &#8216;%s&#8217; Category"
+msgstr "Архів категорії &laquo;%s&raquo;"
+
+#: archive.php:18
+#, php-format
+msgid "Posts Tagged &#8216;%s&#8217;"
+msgstr "Публікації з теґом &laquo;%s&raquo;"
+
+#: archive.php:20
+#, php-format
+msgid "Archive for %s|Daily archive page"
+msgstr "%s|Архів дня"
+
+#: archive.php:20
+#: index.php:17
+msgid "F jS, Y"
+msgstr "d.m.Y"
+
+#: archive.php:22
+#, php-format
+msgid "Archive for %s|Monthly archive page"
+msgstr "%s|Архів місяця"
+
+#: archive.php:22
+#: sidebar.php:33
+msgid "F, Y"
+msgstr "F Y "
+
+#: archive.php:24
+#, php-format
+msgid "Archive for %s|Yearly archive page"
+msgstr "%s|Архів за рік"
+
+#: archive.php:24
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:26
+msgid "Author Archive"
+msgstr "Архів автора"
+
+#: archive.php:28
+msgid "Blog Archives"
+msgstr "Архів блоґу"
+
+#: archive.php:33
+#: archive.php:53
+#: index.php:29
+#: search.php:16
+#: search.php:33
+msgid "&laquo; Older Entries"
+msgstr "&laquo; Новіше"
+
+#: archive.php:34
+#: archive.php:54
+#: index.php:30
+#: search.php:17
+#: search.php:34
+msgid "Newer Entries &raquo;"
+msgstr "Старіше &raquo;"
+
+#: archive.php:39
+#: index.php:16
+#: search.php:24
+#, php-format
+msgid "Permanent Link to %s"
+msgstr "Постійне посилання на «%s»"
+
+#: archive.php:40
+#: sidebar.php:30
+#: single.php:34
+msgid "l, F jS, Y"
+msgstr "d.m.Y "
+
+#: archive.php:46
+#: index.php:23
+#: search.php:27
+#: single.php:26
+msgid "Tags:"
+msgstr "Теґи:"
+
+#: archive.php:46
+#: index.php:23
+#: search.php:27
+#, php-format
+msgid "Posted in %s"
+msgstr "Катеґорія: %s"
+
+#: archive.php:46
+#: index.php:23
+#: search.php:27
+msgid "Edit"
+msgstr "Редагувати"
+
+#: archive.php:46
+#: index.php:23
+#: search.php:27
+msgid "No Comments &#187;"
+msgstr "Немає коментарів &#187;"
+
+#: archive.php:46
+#: index.php:23
+#: search.php:27
+msgid "1 Comment &#187;"
+msgstr "1 коментар &#187;"
+
+#: archive.php:46
+#: index.php:23
+#: search.php:27
+msgid "% Comments &#187;"
+msgstr "Коментарі (%) &#187;"
+
+#: archive.php:46
+#: index.php:23
+#: search.php:27
+msgid "Comments Closed"
+msgstr "Коментування закрите"
+
+#: archive.php:59
+#, php-format
+msgid "Sorry, but there aren't any posts in the %s category yet."
+msgstr "Вибачте, немає жодної публікації в категорії &laquo;%s&raquo;."
+
+#: archive.php:61
+msgid "Sorry, but there aren't any posts with this date."
+msgstr "Вибачте, немає жодної публікації з такою датою."
+
+#: archive.php:64
+#, php-format
+msgid "Sorry, but there aren't any posts by %s yet."
+msgstr "Вибачте, немає жодної публікації автора %s."
+
+#: archive.php:66
+msgid "No posts found."
+msgstr "Публікацій не знайдено."
+
+#: archives.php:17
+msgid "Archives by Month:"
+msgstr "Архів по місяцям: "
+
+#: archives.php:22
+msgid "Archives by Subject:"
+msgstr "Архів за тематикою: "
+
+#: comments-popup.php:9
+#, php-format
+msgid "%1$s - Comments on %2$s"
+msgstr "%1$s &#8212; Коментарі до %2$s"
+
+#: comments-popup.php:28
+msgid "Comments"
+msgstr "Коментарі"
+
+#: comments-popup.php:30
+msgid "<abbr title=\"Really Simple Syndication\">RSS</abbr> feed for comments on this post."
+msgstr "<abbr title=\"Really Simple Syndication\">RSS</abbr> стрічка коментарів цієї публікацї."
+
+#: comments-popup.php:33
+#, php-format
+msgid "The <abbr title=\"Universal Resource Locator\">URL</abbr> to TrackBack this entry is: <em>%s</em>"
+msgstr "<abbr title=\"Universal Resource Locator\">URL</abbr> для трекбеку цієї публікації: <em>%s</em>"
+
+#: comments-popup.php:51
+msgid "Comment"
+msgstr "Коментар"
+
+#: comments-popup.php:51
+msgid "Trackback"
+msgstr "Трекбек"
+
+#: comments-popup.php:51
+msgid "Pingback"
+msgstr "Пінґбек"
+
+#: comments-popup.php:51
+#, php-format
+msgid "by %1$s &#8212; %2$s @ <a href=\"#comment-%3$s\">%4$s</a>"
+msgstr "від %1$s &#8212; %2$s @ <a href=\"#comment-%3$s\">%4$s</a>"
+
+#: comments-popup.php:57
+msgid "No comments yet."
+msgstr "Коментарів немає."
+
+#: comments-popup.php:61
+msgid "Leave a comment"
+msgstr "Залиште коментар"
+
+#: comments-popup.php:62
+#, php-format
+msgid "Line and paragraph breaks automatic, e-mail address never displayed, <acronym title=\"Hypertext Markup Language\">HTML</acronym> allowed: <code>%s</code>"
+msgstr "Рядки та абзаци розділяються автоматично, адреси e-mail ніколи не показуються, дозволений <acronym title=\"Hypertext Markup Language\">HTML</acronym>: <code>%s</code>"
+
+#: comments-popup.php:66
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out &raquo;</a>"
+msgstr "Ви увійшли як <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Вийти\">Вийти »</a>"
+
+#: comments-popup.php:70
+#: comments.php:72
+msgid "Name"
+msgstr "Ім’я"
+
+#: comments-popup.php:75
+msgid "E-mail"
+msgstr "E-mail"
+
+#: comments-popup.php:80
+msgid "<abbr title=\"Universal Resource Locator\">URL</abbr>"
+msgstr "<abbr title=\"Universal Resource Locator\">URL</abbr>"
+
+#: comments-popup.php:85
+msgid "Your Comment"
+msgstr "Ваш коментар"
+
+#: comments-popup.php:93
+msgid "Say It!"
+msgstr "Скажіть це!"
+
+#: comments-popup.php:98
+msgid "Sorry, the comment form is closed at this time."
+msgstr "Вибачте, наразі коментувати заборонено."
+
+#: comments-popup.php:103
+msgid "Close this window."
+msgstr "Закрити це вікно."
+
+#: comments-popup.php:109
+#: single.php:65
+msgid "Sorry, no posts matched your criteria."
+msgstr "Вибачте, немає публікацій, які б задовольняли Ваш запит."
+
+#: comments-popup.php:113
+#, php-format
+msgid "Powered by <a href=\"%s\" title=\"Powered by WordPress, state-of-the-art semantic personal publishing platform\"><strong>WordPress</strong></a>"
+msgstr "Працює на <a href=\"%s\" title=\"Працює на WordPress, сучасній семантичній платформі персональної публікації\"><strong>WordPress</strong></a>"
+
+#: comments.php:12
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Цю публікацію захищено паролем. Введіть пароль для перегляду."
+
+#: comments.php:21
+msgid "No Responses"
+msgstr "Немає коментрарів"
+
+#: comments.php:21
+msgid "One Response"
+msgstr "Один коментар"
+
+#: comments.php:21
+msgid "% Responses"
+msgstr "Коментарі (%)"
+
+#: comments.php:21
+#, php-format
+msgid "to &#8220;%s&#8221;"
+msgstr "до &#8220;%s&#8221;"
+
+#: comments.php:43
+msgid "Comments are closed."
+msgstr "Коментарі закриті."
+
+#: comments.php:53
+msgid "Leave a Reply"
+msgstr "Залишіть коментар"
+
+#: comments.php:53
+#, php-format
+msgid "Leave a Reply for %s"
+msgstr "Написати відповідь для %s"
+
+#: comments.php:60
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Вам необхідно<a href=\"%s\">залоґуватися</a> для надсилання коментаря."
+
+#: comments.php:67
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>."
+msgstr "Ви залоґувалися як <a href=\"%1$s\">%2$s</a>."
+
+#: comments.php:67
+msgid "Log out of this account"
+msgstr "Вийти з акаунту"
+
+#: comments.php:67
+msgid "Log out &raquo;"
+msgstr "Вийти »"
+
+#: comments.php:72
+#: comments.php:75
+msgid "(required)"
+msgstr "(обов’язково)"
+
+#: comments.php:75
+msgid "Mail (will not be published)"
+msgstr "E-mail (не публікується)"
+
+#: comments.php:78
+msgid "Website"
+msgstr "Сайт / Блоґ"
+
+#: comments.php:82
+#, php-format
+msgid "<strong>XHTML:</strong> You can use these tags: <code>%s</code>"
+msgstr "<strong>XHTML:</strong> Ви можете використовувати такі теґи: <code>%s</code>"
+
+#: comments.php:86
+msgid "Submit Comment"
+msgstr "Додати коментар"
+
+#: footer.php:12
+#, php-format
+msgid "%1$s is proudly powered by %2$s"
+msgstr "%1$s працює на %2$s"
+
+#: footer.php:14
+#, php-format
+msgid "%1$s and %2$s."
+msgstr "%1$s та %2$s."
+
+#: footer.php:14
+msgid "Entries (RSS)"
+msgstr "RSS публікацій"
+
+#: footer.php:14
+msgid "Comments (RSS)"
+msgstr "RSS коментарів"
+
+#: footer.php:15
+#, php-format
+msgid "%d queries. %s seconds."
+msgstr "%1$d запитів. %2$s секунд."
+
+#: functions.php:156
+msgid "Custom Header"
+msgstr "Власний заголовок"
+
+#: functions.php:169
+msgid "Close Color Picker"
+msgstr "Закрити вікно вибору кольору"
+
+#: functions.php:366
+msgid "Options saved."
+msgstr "Налаштунки збережені."
+
+#: functions.php:369
+msgid "Customize Header"
+msgstr "Налаштування заголовку"
+
+#: functions.php:383
+#: functions.php:390
+msgid "Save"
+msgstr "Зберегти"
+
+#: functions.php:384
+msgid "Font Color:"
+msgstr "Колір шрифту:"
+
+#: functions.php:384
+#, php-format
+msgid "Any CSS color (%s or %s or %s)"
+msgstr "Будь-який колір CSS (%s, %s або %s)"
+
+#: functions.php:385
+msgid "Upper Color:"
+msgstr "Верхній колір: "
+
+#: functions.php:385
+#: functions.php:386
+#, php-format
+msgid "HEX only (%s or %s)"
+msgstr "Лише HEX (%s або %s)"
+
+#: functions.php:386
+msgid "Lower Color:"
+msgstr "Нижній колір: "
+
+#: functions.php:388
+msgid "Toggle Text"
+msgstr "Сховати/показити текст"
+
+#: functions.php:389
+msgid "Use Defaults"
+msgstr "За замовчуванням"
+
+#: functions.php:398
+msgid "Font Color"
+msgstr "Колір шрифту"
+
+#: functions.php:399
+msgid "Upper Color"
+msgstr "Верхній колір"
+
+#: functions.php:400
+msgid "Lower Color"
+msgstr "Нижній  колір"
+
+#: functions.php:401
+msgid "Revert"
+msgstr "Повернути"
+
+#: functions.php:402
+msgid "Advanced"
+msgstr "Додатково"
+
+#: functions.php:409
+msgid "Update Header"
+msgstr "Оновити заголовок"
+
+#: functions.php:415
+msgid "Font Color (CSS):"
+msgstr "Колір шрифту (CSS):"
+
+#: functions.php:416
+msgid "Upper Color (HEX):"
+msgstr "Верхній колір (HEX):"
+
+#: functions.php:417
+msgid "Lower Color (HEX):"
+msgstr "Нижній колір (HEX):"
+
+#: functions.php:418
+msgid "Select Default Colors"
+msgstr "Вибрати колір за замовчуванням"
+
+#: functions.php:419
+msgid "Toggle Text Display"
+msgstr "Сховати/показати текст"
+
+#: index.php:20
+#: single.php:23
+msgid "Read the rest of this entry &raquo;"
+msgstr "Переглянути продовження публікації »"
+
+#: index.php:35
+msgid "Not Found"
+msgstr "Не знайдено"
+
+#: index.php:36
+msgid "Sorry, but you are looking for something that isn&#8217;t here."
+msgstr "Вибачте, тут немає того, що Ви шукаєте."
+
+#: links.php:16
+msgid "Links:"
+msgstr "Посилання: "
+
+#: page.php:15
+msgid "Read the rest of this page &raquo;"
+msgstr "Переглянути продовженя сторінки »"
+
+#: page.php:17
+#: single.php:25
+msgid "Pages:"
+msgstr "Сторінки: "
+
+#: page.php:22
+msgid "Edit this entry."
+msgstr "Редагувати"
+
+#: search.php:13
+msgid "Search Results"
+msgstr "Результати пошуку"
+
+#: search.php:39
+msgid "No posts found. Try a different search?"
+msgstr "Публікацій не знайдено. Спробуйте змінити пошуковий запит."
+
+#: sidebar.php:16
+msgid "Author"
+msgstr "Автор"
+
+#: sidebar.php:27
+#, php-format
+msgid "You are currently browsing the archives for the %s category."
+msgstr "Ви переглядаєте архів катеґорії «%s»"
+
+#: sidebar.php:30
+#, php-format
+msgid "You are currently browsing the <a href=\"%1$s/\">%2$s</a> blog archives for the day %3$s."
+msgstr "Ви переглядаєте архів блоґу <a href=\"%1$s/\">%2$s</a> за день %3$s."
+
+#: sidebar.php:33
+#, php-format
+msgid "You are currently browsing the <a href=\"%1$s/\">%2$s</a> blog archives for %3$s."
+msgstr "Ви переглядаєте архів блоґу <a href=\"%1$s/\">%2$s</a> за %3$s."
+
+#: sidebar.php:36
+#, php-format
+msgid "You are currently browsing the <a href=\"%1$s/\">%2$s</a> blog archives for the year %3$s."
+msgstr "Ви переглядаєте архів блоґу <a href=\"%1$s/\">%2$s</a> за %3$s рік."
+
+#: sidebar.php:39
+#, php-format
+msgid "You have searched the <a href=\"%1$s/\">%2$s</a> blog archives for <strong>&#8216;%3$s&#8217;</strong>. If you are unable to find anything in these search results, you can try one of these links."
+msgstr "Ви шукали <strong>&laquo;%3$s&raquo;</strong> в архівах блоґу <a href=\"%1$s/\">%2$s</a>. Якщо нічого не вдалося знайти — спробуйте одне із наступних посилань. "
+
+#: sidebar.php:42
+#, php-format
+msgid "You are currently browsing the <a href=\"%1$s/\">%2$s</a> blog archives."
+msgstr "Ви переглядаєте архів блоґу <a href=\"%1$s/\">%2$s</a>."
+
+#: sidebar.php:50
+msgid "Pages"
+msgstr "Сторінки"
+
+#: sidebar.php:52
+msgid "Archives"
+msgstr "Архіви"
+
+#: sidebar.php:58
+msgid "Categories"
+msgstr "Катеґорії"
+
+#: sidebar.php:64
+msgid "Meta"
+msgstr "Мета"
+
+#: sidebar.php:68
+msgid "This page validates as XHTML 1.0 Transitional"
+msgstr "Ця сторінка відповідає стандарту XHTML 1.0 Transitional"
+
+#: sidebar.php:68
+msgid "Valid <abbr title=\"eXtensible HyperText Markup Language\">XHTML</abbr>"
+msgstr "Правильний <abbr title=\"eXtensible HyperText Markup Language\">XHTML</abbr>"
+
+#: sidebar.php:69
+msgid "XHTML Friends Network"
+msgstr "Мережа друзів у  XHTML"
+
+#: sidebar.php:69
+msgid "XFN"
+msgstr "XFN"
+
+#: sidebar.php:70
+msgid "Powered by WordPress, state-of-the-art semantic personal publishing platform."
+msgstr "Сайт працює на WordPress, сучасній платформі персональної публікації. "
+
+#: single.php:34
+#, php-format
+msgid "This entry was posted %1$s on %2$s at %3$s and is filed under %4$s."
+msgstr "Опубліковано %1$s %2$s в %3$s та розміщено в катеґорії %4$s."
+
+#: single.php:35
+#, php-format
+msgid "You can follow any responses to this entry through the <a href='%s'>RSS 2.0</a> feed."
+msgstr "Ви можете відслідковувати коментарі підписавшись на <a href='%s'>RSS 2.0</a>."
+
+#: single.php:39
+#, php-format
+msgid "You can <a href=\"#respond\">leave a response</a>, or <a href=\"%s\" rel=\"trackback\">trackback</a> from your own site."
+msgstr "Можна <a href=\"#respond\">залишити коментар</a> або надіслати <a href=\"%s\" rel=\"trackback\">трекбек</a> зі свого сайту."
+
+#: single.php:43
+#, php-format
+msgid "Responses are currently closed, but you can <a href=\"%s\" rel=\"trackback\">trackback</a> from your own site."
+msgstr "Відповіді зараз закриті, але Ви можете надіслати <a href=\"%s\" rel=\"trackback\"> трекбек</a> зі свого сайту."
+
+#: single.php:47
+msgid "You can skip to the end and leave a response. Pinging is currently not allowed."
+msgstr "Ви можете лишити коментар. Пінґи наразі закриті."
+
+#: single.php:51
+msgid "Both comments and pings are currently closed."
+msgstr "Коментарі та пінґи наразі закриті."
+
+#: single.php:53
+msgid "Edit this entry"
+msgstr "Редагувати"
+
+#. Theme Name of an extension
+msgid "WordPress Default"
+msgstr "Тема за замовчуванням"
+
+#. Theme URI of an extension
+msgid "http://wordpress.org/"
+msgstr "http://uk.wordpress.org/"
+
+#. Description of an extension
+msgid "The default WordPress theme based on the famous <a href=\"http://binarybonsai.com/kubrick/\">Kubrick</a>."
+msgstr "Тема за замовчуванням для WordPress, базована на знаменитій <a href=\"http://binarybonsai.com/kubrick/\">Kubrick</a>."
+
+#. Author of an extension
+msgid "Michael Heilemann"
+msgstr "Майкл Хейлман"
+
+#. Author URI of an extension
+msgid "http://binarybonsai.com/"
+msgstr "http://binarybonsai.com/"
+
+#. Tags of an extension
+msgid "blue, custom header, fixed width, two columns, widgets"
+msgstr "блакитна, власний заголовок, фіксована ширина, дві колонки, віджети"
+
+#~ msgid "Header Image and Color"
+#~ msgstr "Изображение и цвет заголовка"
+#~ msgid "%s RSS Feed"
+#~ msgstr "RSS-лента %s"
+#~ msgid "%s Atom Feed"
+#~ msgstr "Atom-лента %s"
+#~ msgid "This entry was posted on %1$s at %2$s and is filed under %3$s."
+#~ msgstr "Запись опубликована %1$s в %2$s и размещена в рубрике %3$s."
+#~ msgid "Search for:"
+#~ msgstr "Найти:"
+#~ msgid "Search"
+#~ msgstr "Поиск"
+#~ msgid "&raquo; Blog Archive"
+#~ msgstr " &raquo; Архив блога"
+#~ msgid "Permanent Link: %s"
+#~ msgstr "Постоянная ссылка: %s"
+#~ msgid "Sorry, no attachments matched your criteria."
+#~ msgstr "Извините, нет файлов, удовлетворяющих вашим условиям."
+#~ msgid "<cite>%s</cite> Says:"
+#~ msgstr "<cite>%s</cite> говорит:"
+#~ msgid "Your comment is awaiting moderation."
+#~ msgstr "Ваш комментарий ожидает проверки."
+#~ msgid "%1$s at %2$s"
+#~ msgstr "%1$s в %2$s"
+#~ msgid "edit"
+#~ msgstr "изменить"
+
